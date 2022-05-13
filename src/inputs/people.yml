@@ -1,0 +1,58 @@
+- name: jenny
+  contract_hours: 37.5
+- name: marc
+  contract_hours: 37.5
+#- person:
+#    name: sarah
+#    contract_hours: 37.5
+#- person:
+#    name: tony
+#    contract_hours: 37.5
+#- person:
+#    name: myriam
+#    contract_hours: 37.5
+#- person:
+#    name: igor
+#    contract_hours: 37.5
+#- person:
+#    name: fatima
+#    contract_hours: 37.5
+#- person:
+#    name: abdoul
+#    contract_hours: 37.5
+#- person:
+#    name: natalia
+#    contract_hours: 37.5
+#- person:
+#    name: konstantin
+#    contract_hours: 37.5
+#- person:
+#    name: selma
+#    contract_hours: 80
+#- person:
+#    name: matthias
+#    contract_hours: 120
+#- person:
+#    name: sofia
+#    contract_hours: 37.5
+#- person:
+#    name: bruno
+#    contract_hours: 37.5
+#- person:
+#    name: cecile
+#    contract_hours: 60
+#- person:
+#    name: samir
+#    contract_hours: 80
+#- person:
+#    name: aida
+#    contract_hours: 37.5
+#- person:
+#    name: vincent
+#    contract_hours: 37.5
+#- person:
+#    name: dina
+#    contract_hours: 37.5
+#- person:
+#    name: aris
+#    contract_hours: 37.5
