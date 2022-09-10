@@ -10,7 +10,7 @@ def get_people() -> List[Person]:
 
     :return: list of working people
     """
-    with open(os.path.join(os.path.join(os.path.abspath(os.curdir), 'src/inputs/people.yml')), 'r') as people_cfg_file:
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'people.yml'), 'r') as people_cfg_file:
         people_config = load(people_cfg_file.read(), Loader=CLoader)
 
     return [Person(**p) for p in people_config]

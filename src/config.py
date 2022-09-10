@@ -65,3 +65,9 @@ class Shift:
         self.task = task
         self.assigned = assigned
         self.assigned_to = assigned_to
+
+# from dataclasses import dataclass
+# @dataclass
+# class Person:
+#     name: str
+#
