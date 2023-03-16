@@ -1,4 +1,4 @@
-shift-planner
+shift-planner version 1
 ==============================
 
 Program to optimise shift planning
